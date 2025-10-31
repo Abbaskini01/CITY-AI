@@ -1,0 +1,22 @@
+[
+  {
+    "tip_id": "tip_001",
+    "text": "Reduce water waste: Fix leaky faucets and take shorter showers.",
+    "category": "sustainability"
+  },
+  {
+    "tip_id": "tip_002",
+    "text": "Try carpooling or using public transport at least once a week to cut down on emissions.",
+    "category": "sustainability"
+  },
+  {
+    "tip_id": "tip_003",
+    "text": "Support local: Visit your neighborhood farmers' market for fresh produce.",
+    "category": "social"
+  },
+  {
+    "tip_id": "tip_004",
+    "text": "Did you know? You can report potholes and street light issues via the city's civic portal.",
+    "category": "civic"
+  }
+]

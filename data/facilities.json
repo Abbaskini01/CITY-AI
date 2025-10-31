@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hospital_001",
+    "name": "City General Hospital",
+    "type": "hospital",
+    "address": "123 Main Road, Zone A",
+    "phone": "+91-80-12345678",
+    "hours": "24x7",
+    "coordinates": {"lat": 12.9716, "lng": 77.5946},
+    "notes": "Emergency and trauma center available.",
+    "source": "public_data.csv"
+  },
+  {
+    "id": "hospital_002",
+    "name": "Green Valley Clinic",
+    "type": "hospital",
+    "address": "456 Park Avenue, Zone B",
+    "phone": "+91-80-98765432",
+    "hours": "9:00 AM - 7:00 PM",
+    "coordinates": {"lat": 12.9720, "lng": 77.5950},
+    "notes": "Specializes in general practice and pediatrics. Closed on Sundays.",
+    "source": "public_data.csv"
+  },
+  {
+    "id": "school_001",
+    "name": "Bright Futures Academy",
+    "type": "school",
+    "address": "789 Education Street, Zone A",
+    "phone": "+91-80-11223344",
+    "hours": "8:00 AM - 3:00 PM",
+    "coordinates": {"lat": 12.9700, "lng": 77.5900},
+    "notes": "Public school, Grades 1-10.",
+    "source": "public_data.csv"
+  },
+  {
+    "id": "gov_001",
+    "name": "Municipal Services Office",
+    "type": "government office",
+    "address": "1 Civic Plaza, Zone C",
+    "phone": "+91-80-55667788",
+    "hours": "10:00 AM - 4:00 PM",
+    "coordinates": {"lat": 12.9690, "lng": 77.5910},
+    "notes": "For utility payments and civic complaints. Closed 2nd Saturday.",
+    "source": "public_data.csv"
+  }
+]
